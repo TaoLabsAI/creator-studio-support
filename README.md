@@ -1,2 +1,1 @@
-# extended-cut-support
-This is Extended Cut's support system. 
+# Welcome to Extended Cut's Support
