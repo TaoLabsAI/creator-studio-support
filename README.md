@@ -1,6 +1,6 @@
 # Welcome to Extended Cut Support!
 
-This repository is the central place for support for Extended Cut.
+This repository is for Extended Cut's suppport.
 
 ## What You Can Do Here:
 
